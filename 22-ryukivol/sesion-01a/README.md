@@ -27,8 +27,21 @@ Delia Derbyshire
 - generadores de sonido, modificacion de sonidos grabados en cintas 
 - sonidos abstractos - matemáticos 
 
-Daphne Oran 
+Daphne Oran ⭐️
 - pianista y trabajadora de BBC 
 - taller radiofonico 
 - armó su propio estudio de musica electronica Oramics
 - representación grafica del sonido - sonido dibujado  
+
+Éliane Radige ⭐️
+- sonidos de aviones
+- proposiciones sónicas 
+
+Bebe Barron
+- creó su propio estudio de grabación en conjunto a su esposo, ella creaba música electrónica y su esposo creaba sus herramientas a mano
+- sus sonidos provienen de circuitos 
+- sus sonidos fueron utilizados en películas pero al no ser reconocida como música no se utilizó el término "musica" para su trabajo 
+
+Pauline Oliveros 
+- Mucho sonido demasiado, exagerado 
+- tape delay y grabadoras en vivo 
