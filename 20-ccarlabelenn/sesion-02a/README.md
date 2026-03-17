@@ -8,6 +8,14 @@ martes 17/26
 + parlante chico
 + chip ic: simetricos y tienen patitas a cada lado, se posicionan en el eje de la protoboard, puede contar y hacer secuencias, patrones repetitivos
 + broche de bateria
-+ resistencia: más largo más resistencia, menor area menos resistencia
-
++ resistencia: más largo más resistencia, menor area menos resistencia, se mide en ohm 
+---
+|conductor|aislante|
+|---------|--------|
+|hierro   |tierra  |
+|plata    |plástico|
+|cobre    |vidrio  |
+|oro      |madera  |
+|aluminio |cuero   |
+---
 
