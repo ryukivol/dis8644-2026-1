@@ -10,7 +10,13 @@
 
 ![Circuito paralelo](./imagenes/circuito-paralelo.png)
 
-![Circuito básico en proto](./imagenes/paralelo-proto.png)
+![Circuito paralelo en proto](./imagenes/paralelo-proto.png)
+
+## Circuito serie
+
+![Circuito serie](./imagenes/circuito-serie.png)
+
+![Circuito serie en proto](./imagenes/serie-proto.png)
 
 ## Encargo: LQXTLC
 
@@ -28,7 +34,7 @@ Ejemplo: Si quito "R5", solo se apaga "D3". El resto se mantiene encendida.
 | R3                    |       |       |       |       |
 | R4                    |       |       |       |       |
 | R2                    |       |       |       |       |
-| R5                    |    0  |   0   |  1    |   0   |
+| R5                    |    1  |   0   |  0    |   1   |
 
 ### Ejercicio 2
 
@@ -57,3 +63,9 @@ Ejemplo: Si quito "R5", solo se apaga "D3". El resto se mantiene encendida.
 | R4                   |    |    |    |    |
 | R5                   |    |    |    |    |
 | R6                   |    |    |    |    |
+
+## encargo-02a
+
+1. hacer los ejercicios anteriores y documentar los resultados.
+2. elegir un disco particular de Kraftwerk, investigar avances de esa era, contexto de grabación, revisar presentaciones en vivo de esa época y contrastar con actuales. explicar qué escuchas en el disco, qué te llama la atención, describir en largo, no en corto.
+3. lo mismo que 2 pero con un disco de LCD Soundsystem.
