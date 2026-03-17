@@ -8,7 +8,9 @@
 - Chips
 - Broche bateria
 - Leds
-- Resistencias 1K
+- Resistencias 1K (app electrodoc para calcular resistencias)
+
+  
 
 ### Reglas ascenciales de organización
 - Positivo arriba rojo
