@@ -1,12 +1,6 @@
 # sesion-01a
 
-UNIVERSIDAD DIEGO PORTALES 
-FACULTAD DE ARQUITECTURA, ARTE Y DISEÑO. 
-
-DISEÑO GRÁFICO
-
-## REPORTE INVESTIGATIVO ESCRITO del documental “Sisters with 
-Transistors” 
+## REPORTE INVESTIGATIVO ESCRITO del documental “Sisters with Transistors” 
 
 ASIGNATURA: Taller de diseño de máquinas electrónicas 
 
@@ -16,7 +10,6 @@ Guerra
 ESTUDIANTE: Santiago Cifuentes Vélez 
 
 CIUDAD: Santiago de Chile 
-FECHA: 12-03-25 
 
 ### RESUMEN 
 En este reporte escrito se expondrá una pequeña presentación del 
@@ -54,7 +47,7 @@ desde el primer momento que la escuché y la vi.
 La compositora, **Suzanne Ciani.** 
 **Que siempre tenía una pierna en el presente y otra en el futuro.**
 
-*Aquí va una foto
+<img src="https://www.self-titledmag.com/wp-content/uploads/2014/04/lixiviation-4-1024x682.jpg" alt="Imagen" width="50%">
 
 Empresaria, compositora y productora musical, y artista 
 experimental, nacida el 4 de junio de 1946 en Indianápolis (USA) 
@@ -88,7 +81,8 @@ donde todo cambió para Suzanne. Pues conoció al diseñador de
 sintetizadores “Don Buchla”:
 
 (El sintetizador Buchla)
-*Aquí va una foto
+
+<img src="https://www.futuremusic-es.com/wp-content/uploads/2016/09/Don_Buchla_historico_oficial_modular_750px.jpg" width="300">
 
 Y fue con este sintetizador donde comenzó la magia musical.
 
@@ -107,11 +101,11 @@ shrinking woman, de 1981”. (Bacanas, s. f.)
 
 Enlaces de sonidos: 
 
-[Sonido de Coca – Cola:] <https://youtu.be/_5OXU-dAB2M?si=V0CapFhNcm9h2Vng>
+[Sonido de Coca – Cola](https://youtu.be/_5OXU-dAB2M?si=V0CapFhNcm9h2Vng=VIDEOID)
 
-[Sonido Colab con Atari:] <https://youtu.be/NZjkHdX5E1I?si=C1d8lrjFHugek26G>
+[Sonido Colab con Atari](https://youtu.be/NZjkHdX5E1I?si=C1d8lrjFHugek26G=VIDEOID)
 
-[Video que me enamoró de Suzanne:] <https://youtu.be/fZscRHkLMt0?si=ydJXU_Nob1dOWrOP>
+[Video que me enamoró de Suzanne](https://youtu.be/fZscRHkLMt0?si=ydJXU_Nob1dOWrOP=VIDEOID)
 
 Luego de trabajar exclusivamente con la Buchla durante los 70’s, 
 Ciani volvió al piano en los 80’s, dando un paso al mundo de los 
@@ -166,10 +160,16 @@ elemento en común que todas tienen; las maquinas, el sonido y la
 sensibilidad para captarlo, y aprender de ellas, de las 
 antepasadas y del sonido que nos rodea.  
 
-*Aquí van unas fotos
+<div>
+  <img src="https://i.scdn.co/image/ab6761610000e5ebb7054b0057443749b505dbdd" width="30%">
+  <img src="https://cdn-images.dzcdn.net/images/artist/8a207720e8bed18bab25883fba019dc7/1900x1900-000000-80-0-0.jpg" width="30%">
+  <img src="https://static.dezeen.com/uploads/2017/05/Imogen-Heap-and-Mi.Mu-gloves_dezeen_1.jpg" width="30%">
+  <img src="https://static.wikia.nocookie.net/doblaje/images/5/58/Bjork.jpg/revision/latest?cb=20250506001514&path-prefix=es" width="30%">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Psilodump_at_Birdie_2006.jpg" width="30%">
+   <img src="https://i.scdn.co/image/ab6761610000e5eb304d7278aac1f8994055480b" width="30%">
+</div>
 
-
-Referencias (Barcelona, 2019) (Oliva, 2018) 
+## Referencias (Barcelona, 2019) (Oliva, 2018) 
 
 Bacanas, M. (s. f. de s. f. de s. f.). Mujeres Bacanas . Obtenido de Mujeres Bacanas: 
 https://mujeresbacanas.com/suzanne-ciani-1946-es-considerada-una-de-las/ 
@@ -182,5 +182,4 @@ https://mexico.mutek.org/es/artistas/suzanne-ciani
 
 Oliva, A. D. (2 de Octubre de 2018). Una vida sobre las olas de la electrónica: Suzanne Ciani en 
 Chile. La tercera. Obtenido de La Tercera (sección Culto): 
-https://www.latercera.com/culto/2018/10/02/una-vida-las-olas-la-electronica
-suzanne-ciani-chile/
+https://www.latercera.com/culto/2018/10/02/una-vida-las-olas-la-electronicasuzanne-ciani-chile/

@@ -1,34 +1,36 @@
 # sesion-01b
 **APUNTES 13-03**
 
-![APUNTES](https://github.com/paulafuentesm/dis8644-2026-1/blob/8f5e83a2c51513a67dbd6e430910a702163f83fb/13-paulafuentesm/sesion-01b/apuntes01.jpg)
+![APUNTES](https://github.com/paulafuentesm/dis8644-2026-1/blob/d5807dbb2a6063cf074d073935eb1e6208a245ca/13-paulafuentesm/sesion-01b/imagenes/apuntes01.jpg)
 
 -----------
 
 ***Protoboard***
 
-![proto01](https://github.com/paulafuentesm/dis8644-2026-1/blob/6828bb904b877ac0832e6cc32ccc8b8fd34ace47/13-paulafuentesm/sesion-01b/protoboard01.jpg)
+![proto01](https://github.com/paulafuentesm/dis8644-2026-1/blob/d5807dbb2a6063cf074d073935eb1e6208a245ca/13-paulafuentesm/sesion-01b/imagenes/protoboard01.jpg)
 
-![proto02](https://github.com/paulafuentesm/dis8644-2026-1/blob/6828bb904b877ac0832e6cc32ccc8b8fd34ace47/13-paulafuentesm/sesion-01b/protoboard02.jpg)
+![proto02](https://github.com/paulafuentesm/dis8644-2026-1/blob/d5807dbb2a6063cf074d073935eb1e6208a245ca/13-paulafuentesm/sesion-01b/imagenes/protoboard02.jpg)
 
-***Explicaciòn***
+***Elementos***
 
-Cable rojo: energia> signo: v, conectado en + arriba ( toda la linea sirve para conectar )
-cable nengro: tierra, conectado en - abajo ( toda la linea sirve para conectar )
-
-Cables naranjos: conducto donde pasan los electrones, se necesita conectar a cualquier linea donde se encuentren el led, resitencia y los cables rojos-negros
-
-Resitencia: forma doblada con una forma de hueso al medio, controla el flujo para que no se descargue la bateria o pase todo a la ves, tiene q estar en la misma linea que alguna punto de los cables naranjos 
-
-Led verde: pata larga ( + ) y corta en ( - ), se enciende si funciona
-
+| ELEMENTO | DESCRIPCIÓN | FUNCIÓN |
+|--------------|--------------|--------------|
+| Cable rojo    | Cable de energía > signo V en la línea (+) del protoboard (parte superior). Toda la línea sirve para conectar.    | Transporta la energía positiva desde la batería.   |
+| cable negro    | Cable de tierra > signo (–)  del protoboard (parte inferior). Toda la línea sirve para conectar.     | Cierra el circuito llevando la corriente de regreso, permitiendo que la electricidad fluya.     |
+| Cables naranjos    | Cables conductores que se conectan a las huecos del protoboard donde esté en la misma la linea el LED, la resistencia y los cables rojo y negro.     | Conductos para el paso de electrones, conectando los distintos componentes del circuito.    |
+| Resitencia    | forma doblada y un cuerpo central parecido a un hueso. Debe estar conectada en la misma línea que algún punto de los cables naranjos.     | Controla el flujo de corriente.   |
+| LED verde     | pata larga (+) y pata corta (–).     | Emite luz cuando la corriente eléctrica circula bien.     |
 
 --------
 
-Como funciona el cobre:
+***Cobre:***
 
-+ Permitiendo que los electrones se muevan libremente y con mínima resistencia.
+Los electrones de la capa externa de sus átomos están débilmente unidos ( 1 electron no tiene pertenecia, esta solo). Esto significa que pueden moverse con facilidad cuando hay una diferencia de energía (voltaje).
 
-![COBRE](https://github.com/paulafuentesm/dis8644-2026-1/blob/6828bb904b877ac0832e6cc32ccc8b8fd34ace47/13-paulafuentesm/sesion-01b/COBRE.jpg)
++ Alta conductividad eléctrica
+  
++ Permitiendo que los electrones se muevan libremente y con mínima resistencia. Permitiendo que los electrones se muevan libremente y con mínima resistencia.
+
+![COBRE](https://github.com/paulafuentesm/dis8644-2026-1/blob/d5807dbb2a6063cf074d073935eb1e6208a245ca/13-paulafuentesm/sesion-01b/imagenes/COBRE.jpg)
 
 -------------

@@ -26,7 +26,7 @@
 
 - Know-what es historia. Saber el cómo pasó y el know-how es saber cómo se hicieron las cosas.
 
-![copa](FOLDER/copa.png)
+![leydeohm](imagenes/lesy_de_ohm.jpeg)
 
 - **Caudal:** corriente de agua que pasa por un lugar
 
@@ -50,6 +50,13 @@ Corriente es cuánta energía pasa. Entre más corriente, más electrones pasan.
 - El cable es un punto o un nodo, intersección
 
 - **Resistencia:** limite de velocidad
+
+![nombres](imagenes/nombres.jpeg)
+
+### imagenes del proceso
+![elementos](imagenes/elementos.jpeg)
+![ejemplo](imagenes/misaa_ejemplo.jpeg)
+![final](imagenes/final.jpeg)
 
 ## Post clase
 
