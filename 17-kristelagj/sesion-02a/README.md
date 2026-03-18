@@ -6,11 +6,11 @@
 
 Referentes entregados
 
-- Kraftwerk
-- LCD Soundsystem
-- Pierre Shaeffer (Tratado de los objetos musicales (1966))
-- Hainboch
-- Oficina de la nada (Felipe Cussen)
+1. Kraftwerk
+2. LCD Soundsystem
+3. Pierre Shaeffer (Tratado de los objetos musicales (1966))
+4. Hainboch
+5. Oficina de la nada (Felipe Cussen)
 
 Fabricar androides es la música electrónica.
 
@@ -32,7 +32,7 @@ Se crearon primero las luces verdes y en la actualidad recién podemos ver luces
 
 Los parlantes de bajo son mucho más grandes ya que el oído humano es más susceptible a ello, en cambio los agudos no y cada vez los escuchas menos. 
 
-- Primera parte: Misaa
+- Segunda parte: Misaa
 
 Resistencia electronica: 
 
@@ -44,9 +44,9 @@ No existe ningún material que no tenga resistencia. Los científicos han realiz
 
 Las resistencias tienen un codigo de color ya que a traves de este metodo podemos saber cuanta resistenbcia tiene. Nosotros en nuestro caso tenemos de 220 Ω y 1k
 
-- Los dos primeros colores son digitos (estos entregados a partir de una tabla que contiene estos datos) 
-- La tercera barrita son la cantidad de 0 que tiene
-- El color dorado es el margen de error o tolerancia.
+1. Los dos primeros colores son digitos (estos entregados a partir de una tabla que contiene estos datos) 
+2.  La tercera barrita son la cantidad de 0 que tiene
+3.  El color dorado es el margen de error o tolerancia.
 
 calculadora de resistencia https://www.digikey.com/es/resources/conversion-calculators/conversion-calculator-resistor-color-code 
 
@@ -68,7 +68,7 @@ Read me es un archivo, no una carpeta
 
 Mucho de las cosas que hacemos es por sentir algo (aaron)
 
-***post-clase
+### post-clase
 
 Cada resistencia debe existir un cable
 
