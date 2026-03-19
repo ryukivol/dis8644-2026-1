@@ -2,7 +2,11 @@
 
 ## Titulo 2 ##
 
-### Esquemático 1 ##
+### Ejercicio 1 ##
+
+![Esquemático 1](./imagenes/esquematico1.jpg)
+
+![Protoboard 1](./imagenes/esquematico1_protoboard.jpg)
 
 |  | D1 | D2 | D3 | D4 |
 | - | - | - | - | - |
@@ -14,7 +18,12 @@
 
 <br>
 
-## Esquemático 2 ## 
+## Ejercicio 2 ## 
+
+![Esquemático 2](./imagenes/esquematico2.jpg)
+
+![Protoboard 2](./imagenes/esquematico2_protoboard.jpg)
+
 
 |  | D1 | D2 | D3 |
 | - | - | - | - | 
@@ -29,7 +38,12 @@
 
 <br>
 
-## Esquemático 3 ##
+## Ejercicio 3 ##
+
+![Esquemático 3](./imagenes/esquematico3.jpg)
+
+![Protoboard 3](./imagenes/esquematico3_protoboard.jpg)
+
 
 |  | D1 | D2 | D3 | D4 |
 | - | - | - | - | - |
