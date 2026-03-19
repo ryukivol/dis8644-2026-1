@@ -16,7 +16,7 @@
 - Positivo arriba rojo
 - Negativo abajo negro 
 
-### Circuito paralelo 
+## Circuito paralelo 
 - circuito: lazo cerrado 
 - 2 circuitos indemendientes donde si uno de desconecta (se le quita la resistencia) el otro sigue en funcionamiento 
 
