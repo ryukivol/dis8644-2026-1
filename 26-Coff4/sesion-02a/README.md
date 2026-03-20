@@ -114,3 +114,45 @@ Ahora dejaré fotos del proceso tanto en el Lid como en mi casa 	＼(≧▽≦)�
 ![En calma y en casa](./imagenes/en-casa.jpg)
 
 ![Ultima solucion de circuitos](./imagenes/en-casa-dos.jpg)
+
+---
+
+Kraftwerk es una banda alemana de música electrónica y tambien son considerados pioneros del género e influencia en muchos subgéneros de la música electrónica.
+
+La banda combina ritmos repetitivos con melodías pegadizas
+
+Las letras simplificadas del grupo son a veces cantadas a través de un vocoder. Bastante loco.
+
+Radioaktivität/ Radioactivity es el album que se analizara en esta bitacora.
+
+- La mayoria de su musica es bastante repetitiva y se puede diferenciar el Vocoder. No es mi tipo de musica pero puedo entender que es perfecta para musica de videojuegos.
+
+- Tal vez podria ser parte de Hotline Miami (en alguna parte tranquila porque el juego es muuuuuy violento)
+
+- Asociado a los 8 bits tambien, juegos de Atari
+
+- A veces podia desesperarme un poco por los sonidos agudos de antenas sintonizando pero en general era musica de fondo.
+
+- Airwaves seria una de esas canciones de juegos de vuelo.
+
+- No hablemos de Uradium o Radio Star... mis odios sufrieron un poco mucho.
+
+
+---
+
+LCD Soundsystem
+
+- grupo neoyorquino de música dance-punk, formado en 2002
+
+- Inspirados por grandes artistas como DAFT PUNK (hace tiempo que no escuchaba aquel nombre)
+
+- Destacan por su producción analógica saturada, letras irónicas y perfeccionismo técnico, influyendo profundamente en el indie moderno
+
+- Incluso revitalizaron el uso de sintetizadores analógicos en vivo lo cual ya estaba muriendo de a poco
+
+Para el album hablare de LCD Soundsystem...(2005) que nombre para una discografia
+
+Su musica es bastante diferente a la del ultimo grupo, denotando unas voces muy de epoca "Vaquera" como con un cantadito (no se si me explico)
+Tambien se ve esta repetición pero más a lo 31 minutos, se que es un poco raro pero me da esa sensación loca 
+
+Cabe hablar de lo largo de sus canciones, asimilandose al propio Daft Punk en "Around the World" y otra vez "algunas canciones son bastante mas psicodelicas" perfectas...para Hotline Miami o una escena de fiesta infernal
