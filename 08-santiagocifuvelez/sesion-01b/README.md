@@ -52,6 +52,9 @@ Y eso fue todo por la clase.
 Gracias por ver!
 
 ## “The internet’s own boy”
+
+*I want to make the world a better place*
+
 Antes de ver el documental, mi expectativa era como encontrar una narrativa centrada más en la creación de Reddit y su evolución como plataforma a lo largo del tiempo, y una biografía de lo exitoso que fue Aaron y la influencia que tuvo en los medios y la tecnología, pero esto termino siendo como el foco segundario (y eso). Más que un documental sobre innovación tecnológica, es más una historia para reflexionar…, la ética, el conocimiento y el poder.
 
 El documental de “The internet´s Own boy”, dirigido por Brian Knappenberger, nos cuenta la vida de Aaron Swartz, un chico que era un prodigio en la programación y a su vez, uso este conocimiento para ser activista por el acceso libre a la información. A los 12 años, él desarrollo “The info network”, una enciclopedia colaborativa (antes de que existiera Wikipedia), con la cual ganó el premio a ArsDigita. También fue el cofundador de Reddit, pero el documental deja claro que el verdadero interés de Aaron, no era el éxito empresarial, sino la democratización de la información en internet, ya que en su pensamiento estaba que el conocimiento, especialmente el financiado con fondos públicos, debía ser accesible para todos, todas y todes. Además, se evidencia en que el fue parte del movimiento contra la ley SOPA (Stop Online Piracy) la cual intentaba privatizar y combatir la piratería en línea, pero fue muy fuertemente criticada porque tenía el potencial para bloquear los buscadores como Google, y las redes sociales, y restringir la libertad del internet.
