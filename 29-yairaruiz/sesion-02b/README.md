@@ -17,9 +17,11 @@ viernes 20 de marzo 2026
 
 ## Implementación del circuito en clase ##
 
+![circuito1](./imagenes/circuito1.jpg)
 
+![circuito2](./imagenes/circuito2.jpg)
 
-## repaso contenidos ##
+## Repaso contenidos ##
 
 + CPU: Unidad central de procesamiento; ejecuta instrucciones y controla el sistema.
 + Ohm (Ω): Unidad de medida de la resistencia eléctrica.
