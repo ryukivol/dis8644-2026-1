@@ -60,3 +60,11 @@ Antes de ver el documental, mi expectativa era como encontrar una narrativa cent
 El documental de “The internet´s Own boy”, dirigido por Brian Knappenberger, nos cuenta la vida de Aaron Swartz, un chico que era un prodigio en la programación y a su vez, uso este conocimiento para ser activista por el acceso libre a la información. A los 12 años, él desarrollo “The info network”, una enciclopedia colaborativa (antes de que existiera Wikipedia), con la cual ganó el premio a ArsDigita. También fue el cofundador de Reddit, pero el documental deja claro que el verdadero interés de Aaron, no era el éxito empresarial, sino la democratización de la información en internet, ya que en su pensamiento estaba que el conocimiento, especialmente el financiado con fondos públicos, debía ser accesible para todos, todas y todes. Además, se evidencia en que el fue parte del movimiento contra la ley SOPA (Stop Online Piracy) la cual intentaba privatizar y combatir la piratería en línea, pero fue muy fuertemente criticada porque tenía el potencial para bloquear los buscadores como Google, y las redes sociales, y restringir la libertad del internet.
 
 Continuando con lo anterior, el gobierno de estados unidos, presento cargos severos contra Aaron por su activismo, ocasionando que a sus 26 años, tomara la decisión de quitarse la vida. Un hecho totalmente lamentable…, porque la muerte de una mente tan brillante como la de Aaron, se pudo haber evitado si no hubiera sido por el uso desproporcionado del sistema judicial y la presión que este puso sobre él (Aaron) solo por luchar para que el acceso al conocimiento fuera para todxs. (Incluso yo creo que lxs mismxs colaborades del sistema judicial, necesitaban o necesitarían en algún momento, uso de esta información libre en internet).
+
+“"Aaron's death is not simply a personal tragedy. It is the product of a criminal justice system rife with intimidation and prosecutorial overreach," the statement said”. (BBC news, 2013)
+
+*Bibliografía*
+BBC news. (13 de enero de 2013). BBC news. Obtenido de BBC news: https://www.bbc.com/news/world-us-canada-21001452
+Knappenberger, B. (Dirección). (2014). The Internet’s Own Boy – Aaron Swartz Documentary [Película].
+
+
