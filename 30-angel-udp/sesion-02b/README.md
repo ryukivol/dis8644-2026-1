@@ -99,5 +99,5 @@ cuando se mira de frente está la pata 1,2 y 3
 
 no tiene polaridad
 
-Y dependiendo de la luz el foro resistor actua sobre el circuito que se observa en el led aumentando o disminullendo la velocidad
+Y dependiendo de la luz el foto resistor actua sobre el circuito que se observa en el led aumentando o disminullendo la velocidad
 
