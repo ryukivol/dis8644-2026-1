@@ -20,3 +20,16 @@
 
 ### Leaning the art of electronics
 
+**Fuentes de voltaje de corriente continua (DC):** elementos cuyo voltaje de salida es constante en el tiempo como lo es una batería 
+
+Circuito de resistores en serie = divisor de voltaje. 
+
+(me encanto esto que dijo) “Está bien, esto es algún tipo de circuito, pero ¿para qué sirve? ¿Por qué necesito algo así?” (literal soy yo en clases)
+
+Entender y aprender esto nos ayudara a poder que un simple DC y cables hagan magia, además de lo que nosotros pensamos!
+
+**Entregar potencia:** transferir energía eléctrica desde una fuente hacia un dispositivo que la usa cuando queremos hacer que un altavoz produzca un sonido fuerte o cuando queremos hacer girar un motor.
+
+Minimizar el flujo de potencia
+
+Se puede tener dos fines en caso del libro entregar potencia o minimizar, que en esto estas trabajando el flujo de información.
