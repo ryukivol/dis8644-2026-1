@@ -20,7 +20,15 @@ Gordon matta Clark referente
 
 FOTORESISTOR se le dice también "LDR"
 
+### Aprendiendo más sobre circuito Astable
+
 Condensador mas alto en uF mas lento y mas bajo mas rápido la oscilación de las luces
 
 el tiempo que hay entre que se repite un ciclo es una honda (t) periodo de Onda, (S) frecuencia = 1/T  Formula de frecuencia F= 1/T = 1.44/(RA + 2 RB) * C
+
+RA tiene que ser mayor a 1k
+
+La oscilación ocirre en la patita del chip (oscilacion estar entre prendido y apagado osea estar en 2 estados como se puede llamar: 1 o 0, on y off, True o false, etc..)
+
+osea que el 555 está respirando segun la energia que uno le da y sellama 555 porque tiene dentro 3 resistencias casi de 5 kilos, Buscar How a 555 Timer clip work GIF
 
