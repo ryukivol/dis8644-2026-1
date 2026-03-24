@@ -37,3 +37,6 @@ La interpretación de "amor" como "sin muerte" (A-mors) es una etimología poét
 * **Switch:** controlan el flujo de corriente para encender/apagar cargas.
 * **Temporales:** automatizan este proceso basándose en el tiempo.
 
+![boton](./imagenes/boton.jpg)
+
+<https://www.555-timer-circuits.com/toy-organ.html>
