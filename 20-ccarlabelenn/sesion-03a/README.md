@@ -43,7 +43,7 @@ la música electro acustica según asuar fue una nueva manera de escuchar, una n
 **un poco de punteo que hice mientras veía el documental:**
 
 + sonidos puros: se caracterizan por ser producidos por una sola vibración, cubren todo el rango de audicón, de tonos graves hasta los más agudos
-+ interfaz sonora lumínica
++ interfaz sonora lumínica (cool) 
 + si uno es un poco computín es bastante fácil aprender a hacer música
 + josé vicente asuar: ingeniero y compositor, obra electroacustica (músico misterioso), representante del estado de la investigación en chile 
 + la naturaleza está llena de música
