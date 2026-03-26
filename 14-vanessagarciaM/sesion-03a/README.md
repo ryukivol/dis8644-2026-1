@@ -129,8 +129,11 @@ También aparece la referencia al caleidoscopio (1968) como una forma de entende
 El foco principal se centra en José Vicente Asuar, ingeniero y compositor, asociado a la idea de un “músico misterioso”. Su trabajo parte desde la observación y escucha de sonidos naturales, como el canto de los pájaros, para luego avanzar hacia una abstracción del sonido, entendiéndolo como un fenómeno que puede ser analizado y transformado. En su tesis desarrolla la obra “Variaciones Espectrales”, donde trabaja a partir del espectro del sonido, es decir, las distintas frecuencias que lo componen, generando transformaciones a partir de estas.
 
 Asuar desarrolla una de las primeras piezas en Sudamérica compuestas exclusivamente con sonidos electrónicos, generados, grabados y manipulados mediante tecnología. La música tecnológica no necesariamente requiere partitura, pero puede ser útil como herramienta de análisis, y en este caso Asuar desarrolla una como método para entender lo que ocurre dentro de la obra, relacionando símbolos con estímulos sonoros.
+![documental](./imagenes/variaciones-espectrales.png)
+![documental](./imagenes/variaciones-espectrales.png)
 
 Finalmente, se destaca que Asuar construyó un computador dedicado exclusivamente a la creación musical, capaz de sintetizar una mayor cantidad de voces simultáneamente que otros computadores de su época, lo que refuerza la idea de que el sonido puede ser no solo escuchado, sino también creado, analizado y transformado mediante tecnología.
+
 
 
 
