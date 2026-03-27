@@ -1,6 +1,6 @@
 # sesion-02b
 
-*Autobahn
+* Autobahn
 
 Autobahn es el cuarto álbum publicado del grupo alemán Kraftwerk en Noviembre de 1974, siendo el primero que logró posicionar tanto a la banda, como a la música electrónica cantada en alemán dentro de la escena y listas de éxitos internacionales (Top 30 en Europa y Estados Unidos). Fue una grabación electrónica revolucionaria, incorporó líneas de bajo sintetizadas aproximadamente tres años antes de “I Feel Love” de Donna Summer y Giorgio Moroder, tema que marcó uno de los primeros acercamientos masivos a la electrónica en la música disco. 
 
@@ -10,7 +10,7 @@ https://audiomediainternational.com/deep-cuts-kraftwerk-synths/#:~:text=CONTENID
 El título Autobahn, traducido al español como “autopista”. Hace alusión a la “Bundesautobahn”, red de autopistas federales de Alemania. Esta es considerada como uno de los orgullos del país, con sus casi 13.000km de vías gratuitas que permiten la interconectividad con Europa sin límite de velocidad (en aproximadamente 70% de su extensión).
 
 
-***Arte de portada obtenida de Philips Records.
+*** Arte de portada obtenida de Philips Records.
 https://en.wikipedia.org/wiki/Autobahn_(album)#/media/File:Autobahn-kraftwerk-cover.jpg 
 
 
@@ -18,7 +18,7 @@ https://en.wikipedia.org/wiki/Autobahn_(album)#/media/File:Autobahn-kraftwerk-co
 https://en.wikipedia.org/wiki/Autobahn_(album)#cite_note-FOOTNOTEHooker1976-36 
 
 
-**Reseña: 
+** Reseña: 
 
 Mi primer acercamiento a Kraftwerk fue hace más o menos 7 años, con la canción “Computer Love”, que es sampleada “Talk” de Coldplay, (me recuerda mucho a mi infancia jeje). Luego escuché el álbum completo, y “The Man-Machine”. Solo conocía esos dos así que esta es la primera vez que escucho este Autobahn.
 
@@ -33,15 +33,15 @@ El álbum fue grabado principalmente con sintetizadores y caja de ritmo, con el 
 
 
 
-**Listado de pistas (Lanzamiento original)
+** Listado de pistas (Lanzamiento original)
 Todas escritas por Ralf Hütter & Florian Schneider.
 
-***Lado A
+*** Lado A
 
 1. “Autobahn”
 Duración: 22:47 minutos.
 
-***Lado B
+*** Lado B
 
 2. “Melodía del Cometa 1”
 Duración: 6:26 minutos.
@@ -56,17 +56,17 @@ Duración: 3:45 minutos.
 Duración: 4:02 minutos.
 
 
-El álbum se grabó principalmente con sintetizador y caja de ritmos, con flauta y guitarra ocasionales. Brocker comentó que las melodías y armonías sencillas del grupo sugieren música pop.
+- El álbum se grabó principalmente con sintetizador y caja de ritmos, con flauta y guitarra ocasionales. Brocker comentó que las melodías y armonías sencillas del grupo sugieren música pop.
 
-**Equipamiento:
+** Equipamiento:
 
-***Sintetizadores: 
+*** Sintetizadores: 
 Moog Minimoog Model D
 
 Equip Board: 
 https://equipboard.com/items/moog-minimoog-model-d
 
-***ARP 2008 Odyssey Rev1
+*** ARP 2008 Odyssey Rev1
 
 Equipboard
 https://equipboard.com/items/arp-2800-odyssey-rev1
@@ -74,7 +74,7 @@ https://equipboard.com/items/arp-2800-odyssey-rev1
 
 Equipo de estudio utilizado por Kraftwerk en Autobahn
 
-***Caja de ritmos
+*** Caja de ritmos
 
 VOX V829 Percussion King
 
@@ -83,7 +83,7 @@ Equipboard
 https://equipboard.com/items/vox-percussion-king-drum-machine-1967
 
 
-Teclados y sintetizadores usados por Ralf Hütler on Autobahn
+- Teclados y sintetizadores usados por Ralf Hütler on Autobahn
 
 Equipboard
 https://equipboard.com/items/korg-arp-odyssey 
