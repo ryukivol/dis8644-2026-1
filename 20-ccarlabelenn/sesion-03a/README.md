@@ -19,13 +19,13 @@ circuito A-estable con parlante
 ## segundo bloque 
 + condensador en serie: atenua ciertos comportamientos de la onda
 + la resistencia hace que no sea tan agresivo el paso de los electrones
-+ con resistencia y condensador se puede filtrar, escalersa de moog (mood filter ladder)
++ con resistencia y condensador se puede filtrar, escalera de moog (mood filter ladder)
 + (R) atenua (C) filtra 
 + las diferencias son importantes porque son productivas 
 
 ## encargo 03 
 
-expander el circuito anteriormente usado, incorporando más botones.
+expandir el circuito anteriormente usado, incorporando más botones.
 
 ![circuito-botones](./imagenes/circuito-botones.jpg)
 
@@ -50,7 +50,7 @@ la música electro acustica según asuar fue una nueva manera de escuchar, una n
 + derrepente de la locura puede emerger la lucidez
 + música concreta: apropiarse concretamente del sonido, la grabación de sonidos concretos. se cortaban cintas de distintas grabaciones de distintios sonidos, se intentaban variaciones con distintos tipos de corte
 + música con computadoras: construyó el computador pensando cosas que se hicieron despues, hizo que el computador controle el voltaje a perifericos, o sea a otros sintetizadores. podia sintetizar mayor cantidad de voces que cualquier otro computador 
-+ el protocolo midi: ( musical instrument digital interface), es un estándar técnico internacional que permite a instrumentos electrónicos, controladores y ordenadorescomunicarse entre sí
++ el protocolo midi: ( musical instrument digital interface), es un estándar técnico internacional que permite a instrumentos electrónicos, controladores y ordenadores comunicarse entre sí
 + la música no puede ser mercancia
 + capacidad de visualizar un futuro a través de una maquina 
 
