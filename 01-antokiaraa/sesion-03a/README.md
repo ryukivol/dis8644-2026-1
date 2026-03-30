@@ -35,3 +35,7 @@ Menor frecuencia → sonido más grave
 - Capacitor → define duración del ciclo
 - Potenciómetro → control manual
 - 555 → genera señal
+
+### Encargo
+
+ver documental https://www.youtube.com/watch?v=sJ9EZWBZee8, incluir apuntes e investigación asociada a la bitácora.
