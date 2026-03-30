@@ -95,9 +95,30 @@ Regula la velocidad en la que parpadea la luz
 
 cuando se mira de frente está la pata 1,2 y 3
 
-### **Ejercicio 3** Foto resitor
+### **Ejercicio 3** Fotoresitor
 
 no tiene polaridad
 
-Y dependiendo de la luz el foro resistor actua sobre el circuito que se observa en el led aumentando o disminullendo la velocidad
+Y dependiendo de la luz el foto resistor actua sobre el circuito que se observa en el led aumentando o disminullendo la velocidad
 
+### Preguntas del encargo
+
+1. ¿Las diferentes luces de los led tienden a recibir distintas cantidades de energía e influyen si estas prenden o no?
+
+2. ¿Si un proto board es suficientemente largo, podría evitar que llegue el flujo de electrones a el final de este?
+
+3. ¿Climas extremos pueden afectar el funcionamiento de los circuitos?
+ 
+4. ¿Se puedrian agregar señales por control remoto a los circuitos que estamos creando?
+
+5. ¿El polvo actua como aislante sobre los circuitos o evita de alguna manera que pasen los electrones?
+
+6. ¿Lo que se usa en el alumbrado público funciona en base a lo que hace el fotoresistor?
+
+7. ¿Los circuitos en funcionamiento sin ningun elemento de sonido pueden hacer algún tipo de ruido?
+
+8. ¿Las papas podrían darle energía al protoboard?
+
+9. ¿Se podria correr el doom utilizando protoboards y suficientes luces led donde además genere sonidos del propio juego?
+
+10. ¿Se pueden crear conexiones inalambricas entre protoboards?
