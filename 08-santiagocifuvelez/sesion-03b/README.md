@@ -38,5 +38,5 @@ Más caminos → menos resistencia total → más corriente
 
 As a way of sumary se vería de esta manera:
 
--Resistencia en serie → suma → aumenta resistencia 
+-Resistencia en serie → suma → aumenta resistencia   
 -Resistencia en paralelo → divide → disminuye resistencia.
