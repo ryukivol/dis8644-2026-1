@@ -5,7 +5,7 @@ la resistencia equivalente es una resistencia imaginaria que puede sustituir a t
 
 Básicamente, es como "resumir" varias piezas en una sola para facilitar los cálculos. La forma de calcularla depende totalmente de cómo estén conectadas las resistencias entre sí.
 
-imagen
+![REQ](./imagenes/apuntes-1.jpg) 
 
 **1. Resistencias en Serie**
 
@@ -25,6 +25,8 @@ Dato clave: En paralelo, la resistencia equivalente siempre será menor que la r
 
 ### Circuito monostable
 
+![Circuito Monoestable](./imagenes/apunte-2.jpg) 
+
 Un circuito monostable (o monoestable) es una configuración del chip 555 en la que el circuito tiene un solo estado estable: el estado bajo.
 
 A diferencia del circuito astable que armaste anteriormente (que oscila continuamente), el monostable funciona como un temporizador de un solo disparo.
@@ -35,11 +37,9 @@ A diferencia del circuito astable que armaste anteriormente (que oscila continua
 + Temporización: La salida se mantiene en "alto" durante un tiempo determinado por una resistencia ($R$) y un capacitor ($C$).
 + Retorno: Una vez cumplido el tiempo, la salida vuelve a "bajo" y se queda ahí hasta que reciba otro disparo.
 
-imagen
-
 ### "Atari Punk Console"
 
-imagen
+![Atari punk console](./imagenes/ejercicio.png) 
 
 La Atari Punk Console que armamos funciona mediante el trabajo conjunto de dos etapas. La primera parte utiliza un chip 555 configurado como astable, donde el potenciómetro ($R_1$) regula la frecuencia de los pulsos; la segunda etapa es un monostable que recibe esos pulsos y define su duración mediante la LDR ($R_4$). Al mover el potenciómetro o variar la luz sobre la fotoresistencia, modificamos la onda sonora resultante, lo que nos permite regular el tono y el timbre del parlante para crear sonidos electrónicos experimentales.
 
@@ -47,5 +47,5 @@ En conjunto con mis compañeros, llevamos a cabo la construcción del circuito c
 
 **Imagen del resultado trabajado en clases**
 
-imagen
+![Atari punk console ejercicio](./imagenes/atari-punk-console.gif) 
 
