@@ -51,7 +51,7 @@ Este se llama “Active line drive ALD-1”, el cual tiene un ruido que aún no 
 
 Es muy fácil de desarmar, solo tenia 8 tornillos de cruz y listo (es hermoso poder reconocer cosas que antes no tenia pensado en saber. Este ramo me ha ayudado a poder hablar más con mi papá)
 
-Dividi en 4 secciones la PCBA
+Dividi en 4 secciones la PCBA:
 
 - Zona 1
 
@@ -93,6 +93,8 @@ Los demás componentes:
 | R      | Resistencias             | 25R 3                      |
 | R      | Resistencias             | a 20% 9402          |
 
+-------------------------
+
 - Zona 2
 
 ![zona 2](imagenes/zona-2.jpeg)
@@ -131,6 +133,8 @@ Los demás componentes
 | Q      | Transistores         | (≈6 patitas, no dice nada)                         |
 | XLR    | Conector             | Tipo XLR (audio profesional)                     |
 
+-------------------------
+
 - Zona 3
 
 ![zona 3](imagenes/zona-3.jpeg)
@@ -152,6 +156,8 @@ Condensadores:
 |---|-------------|--------|
 | 1 | 100 µF      | 35 V   |
 
+-------------------------
+
 - Zona 4
 
 ![zona 4](imagenes/zona-4.jpeg)
@@ -167,10 +173,38 @@ Condensadores:
 
 No hay
 
+-------------------------
+
+- Carcasa (parte delantera)
+
+SW1 → lee si es CD, tuner, video,
+tape 1, aux / phono.
+
+SW2 → lee si es tape 1, source, tape 2
+
+PCBA demarca hace conexión con zona 4 lo cual te dirige a la conexión salida con cables. Además lleva a "tape defeat", donde si está encendido,mutear, además del regulador derecha o izquierda.
+
+SW3 → ve si es normal o directo.
+
+R124 → No sé qué es (supondre que es para subir volumen ya que no dice nada)
+
+- Carcasa (parte tracera)
+
+J29, J27, J28, J30 dirigen el transformador toroidal al encendido o apagado además del cable de 230VAC - T315 mA
+
+(Todo lo de adelante se refleja en otros con cables)
+
+J23, J24, J25, J26 (balancean el output)
+↓          ↓
+Left       Right
+
+desde J1 a J20 siguen conectados previamente hasta CD con L y R.
+
+-------------------------
+
 1. En zonas 2 y 3 hay circuitos integrados de 65448
 2. Los GND y TP estan por todas las zonas y tienen un alambre soldado
 3. Las E solo estan soladadas
 4. El equipo tiene otra PCBA pero esta en vertical la cual sus LED estan hacia afuera. Logro apreciar que tiene condenzadores no polarizados, LED, circuitos integrados de 8 pins, 14 pins y resistencias.
 5. Me gusta el diseño de los sectores, muy microdesign
-
 
