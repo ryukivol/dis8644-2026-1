@@ -86,3 +86,11 @@ Cuando X es 0 -> No oscila
 ### Pasaremos al chip 4093
 
 Usaremos resistencis y condensadores para variar la frecuencia
+
+### Tarea
+
+Averiguar que significa "Schmitt Trigger"
+
+https://moritzkleininstruments.com/
+
+https://www.ericasynths.lv/
