@@ -32,3 +32,6 @@ Pin 7 (Discharge/Descarga): Descarga el condensador externo para reiniciar el ci
 
 Pin 8 : Alimentación positiva (4.5V - 15V)
 
+## ejercicio en clase astable con monoestable
+
+
