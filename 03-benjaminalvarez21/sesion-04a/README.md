@@ -6,7 +6,7 @@ Circuit simulator applet es un simulador de circuitos electrónicos se pueden gu
 
 ### link
 
-https://www-falstad-com.translate.goog/circuit/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc
+<https://www-falstad-com.translate.goog/circuit/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc>
 
 Si algo mide mil de algo es kilo
 
