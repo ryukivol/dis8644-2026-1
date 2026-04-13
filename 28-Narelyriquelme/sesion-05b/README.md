@@ -1,9 +1,10 @@
 # sesion-05b
+vie, 3 abr
 ## Apuntes 
 ![apuntes](./imagenes/apuntes.jpg)
 
 ## utilizamos un chip nuevo
-![chip](./imagenes/)
+![chip](./imagenes/chip-4017.png)
 
 ## Circuito Secuenciador de Luces
 ![circuito](./imagenes/ejercicio-clases.png)
