@@ -65,3 +65,5 @@ Trabajamos con el chip 4017 (que quemé en 5 minutos xd), el cual es un secuanci
 ![lógica](./imagenes/digital-logic.gif)
 
 ![Esquematico](./imagenes/sc06.png)
+
+![Esquematico](./imagenes/foto.jpg)
