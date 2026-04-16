@@ -8,27 +8,24 @@ El libro celebra el arte y la ciencia detrás del **diseño de interfaz** en la 
 ![bitacora-05-a](./imagenes/push-turn-move-kim-bjorn.jpg)  
 
 Descripción y fotos de [Stratgear](https://stratgear.com/es/produto/push-turn-move/)
-*uhhhh*
+*uhhhh*.
 
 ### Rererentes:
 
 ## David Byrne  
-Músico detrás de Talking Heads, nació en Escocia (1952) pero emigró a EE. UU. cuando niño. Es reconocido por su excentricidad artística y por ser un artista polifacético, es: músico, cineasta, escritor y fundador del sello *Luaka Bop*. Famoso por usar un "traje grande" ("*Big Suit*" para la película *Stop Making Sense* de 1984) para cambiar sus proporciones y autodescribirse con **tendencias autistas**🔥🔥 que considera un superpoder creativo.
+Músico detrás de Talking Heads, nació en Escocia (1952) pero emigró a EE. UU. cuando niño. Es reconocido por su excentricidad artística y por ser un artista polifacético, es: músico, cineasta, escritor y fundador del sello *Luaka Bop*. Famoso por usar un "traje grande" ("*Big Suit*" para la película *Stop Making Sense* de 1984) para cambiar sus proporciones y autodescribirse con **tendencias autistas** que considera un superpoder creativo🔥🔥.
 
 Discución de David Byne y Autismo en [Reddit](https://www.reddit.com/r/talkingheads/comments/17h8if5/how_certain_is_it_that_david_byrne_is_on_the/)
 
-**[Luaka Bop](https://luaka-bop.myshopify.com/)**
-
-![bitacora-05-a](./imagenes/luaka-bop-logo-original-bitacora-antoniaamc.png) 
-
-Fuente: [Wikipedia](https://en.wikipedia.org/wiki/Luaka_Bop)
-
-
 Fuente: su [página de Wikipedia](https://es.wikipedia.org/wiki/David_Byrne#:~:text=Para%20el%20pol%C3%ADtico%2C%20v%C3%A9ase%20David%20Byrne%20(pol%C3%ADtico).,de%20colaborar%20con%20multitud%20de%20otros%20artistas.)
 
-Presentaciones en vivo lol:
-- [David Byrne en "Martes 13" de Canal 13 (1990)](https://www.youtube.com/watch?v=7JV6yHFamcg&t=10s)  
-- [David Byrne en vivo en Coachella 2026](https://www.youtube.com/watch?v=Kn1vsMJk260&list=RDKn1vsMJk260&start_radio=1)
+**Luka Bop[Logo original](https://luaka-bop.myshopify.com/)**  
+Sello discográfico con sede en Nueva York.  
+![bitacora-05-a](./imagenes/luaka-bop-logo-original-bitacora-antoniaamc.png)
+
+Presentaciones en vivo:
+- En Chile [David Byrne en "Martes 13" de Canal 13 (1990)](https://www.youtube.com/watch?v=7JV6yHFamcg&t=10s)  
+- Más reciente[David Byrne en vivo en Coachella 2026](https://www.youtube.com/watch?v=Kn1vsMJk260&list=RDKn1vsMJk260&start_radio=1)
 
 ![bitacora-05-a](./imagenes/david-byrne-collach-bitacora-antoniaamc.jpg)
 
@@ -39,9 +36,15 @@ Presentaciones en vivo lol:
 3. DB durante su gira mundial y espectáculo de Broadway "American Utopia" (2018). ([link](https://revistaladosis.com/david-byrne-american-utopia-world-tour-cdmx))  
 4. DB durante su gira en 2026, interpretando canciones de Talking Heads. ([link](https://chicago.suntimes.com/music/2025/10/29/review-david-byrne-who-is-the-sky-tour-auditorium-chicago))  
 5. :orange_book::large_blue_circle:: Portada álbum *"Speaking Tongues (Deluxe Version)"* (1983).  
-6. :mount_fuji::partly_sunny:: Portada álbum *"Little Creatures"* (1985).  
+6. :mount_fuji::partly_sunny:: Portada álbum *"Little Creatures"* (1985).
 
-   
+### Notas:   
+- Vimos videos de David Byrne en youtube, me acuerdo de una presentación en vivo con todos las personas del escenario usando trajes iguales, también eschuchamos [This Must Be The Place](https://www.youtube.com/watch?v=fsccjsW8bSY). No me acuerdo de más...
+- Escribí esta parte escuchando The Talking Heads, me gustan más que las canciones de solista de David Byrne. 
+
+
+# incompleto
+
 - st vincent: diseño d guitarra
 - 
 En 2012, Byrne sacó un álbum colaborativo con St. Vincent, llamado Love This Giant.
