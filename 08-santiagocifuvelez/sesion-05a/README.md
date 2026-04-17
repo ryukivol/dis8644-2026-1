@@ -45,4 +45,4 @@ As a way of sumary:
 
 ![Tododaigual](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-05a/imagenes/img2.png)
 
-![ondess](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-05a/imagenes/ondas.png)
+![ondess](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-05a/imagenes/img3.png)
