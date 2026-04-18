@@ -54,15 +54,7 @@ La lógica booleana es un sistema de razonamiento que trabaja con valores binari
 
 ![Boole](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-05a/imagenes/img3.png)
 
-This one is "OR"
-![OR](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-05a/imagenes/or.jpeg)
+Ahora vamos a profundizar un poco más con unos ejemplos explicados en clase. 
 
-This one is "AND y NOT"
-![AND Y NOT](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-05a/imagenes/and-y-not.jpeg)
-
-This one is "NAND"
-![NAND](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-05a/imagenes/nand.jpeg)
-
-Por las precarias!
 
 
