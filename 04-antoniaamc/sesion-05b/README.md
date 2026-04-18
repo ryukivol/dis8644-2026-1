@@ -56,7 +56,7 @@ Fuentes:
 
 **StV: St. Vincent**
 
-1 y 2. StV en 2018 u_u :D ([link](https://es.wikipedia.org/wiki/St._Vincent_(cantante))  
+1 y 2. StV en 2018 u_u :D ([link](https://es.wikipedia.org/wiki/St._Vincent_(cantante)).  
 3 y 5. StV entrevista Vogue (2014) ([link](https://www.vogue.co.uk/article/five-minutes-with-st-vincent)).  
 4. Guitarras StV.  
 6. Su firma, me gusta ([link](https://es.wikipedia.org/wiki/St._Vincent_(cantante)#/media/Archivo:AnnieAutograph.png)).
@@ -75,9 +75,9 @@ Fuentes:
 ## Código Binario  
 Método de representar datos o instrucciones utilizando únicamente los dígitos 0 y 1. Es el **idioma base** de las computadoras para comunicarse y almacenar información. Datos como texto, imágenes y sonido se transforman en código binario para poder ser procesados, cuando necesita realizar una tarea, esta se traduce al sistema binario y luego es ejecutada.
 
-Fuente: *¿Qué es un sistema binario?*, [Lenovo](https://www.lenovo.com/cl/es/glosario/sistema-binario/?orgRef=https%253A%252F%252Fwww.google.com%252F)
+Fuente: ¿Qué es un sistema binario?, [Lenovo](https://www.lenovo.com/cl/es/glosario/sistema-binario/?orgRef=https%253A%252F%252Fwww.google.com%252F)
 
-***¿Cómo se lee?***  
+**¿Cómo se lee?**  
 Leer código binario implica convertir secuencias de ceros y unos en números (sistema decimal) o caracteres (ASCII/Unicode) agrupando los bits (generalmente en bloques de 8, llamados bytes). Cada posición binaria representa una potencia de 2, sumando solo donde hay un '1'.
 
 **¿Qué es un bit?**  
@@ -177,6 +177,8 @@ Fuente: *Máquinas sonoras, electrónicas y computacionales - Estrategias y rece
 | 16  | VCC              | Voltaje positivo de alimentación (+V). |
 
 # faltan más chips
+
+INCOMPLETO
 
 
 
