@@ -11,6 +11,8 @@ Period.
 
 ## 1. Nuevo Chip: 4017.
 
+1.	El **4017** es un circuito integrado que funciona como un contador decimal: recibe pulsos eléctricos (como los de un reloj, en este caso, los del 555) y va activando sus salidas una por una, en orden, del 0 al 9 (Aunque en este ejercicio lo usamos desde el 0 hasta el 3). Es decir, cada vez que llega un pulso, “avanza” a la siguiente salida, apagando la anterior.
+
 ## 2. Clock Generator (555) y, Secuenciador (4017).
 
 ## 3.	Resultado de trabajo en clase. 
