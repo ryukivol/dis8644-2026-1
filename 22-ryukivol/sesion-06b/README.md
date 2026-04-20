@@ -22,4 +22,6 @@
 
 # Resultados 
 <img width="400" height="300" alt="nandulator-2-video-noise" src="https://github.com/user-attachments/assets/ae9fa576-80ce-4107-bef4-9bd8c2977c4b" />
+
+
 - By Bruno 
