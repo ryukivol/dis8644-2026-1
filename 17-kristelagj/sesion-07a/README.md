@@ -9,6 +9,11 @@ Hoy comenzó la clase colocando a Manuel Gottsching que fue un compositor y guit
 
 - Misaa
 
+No pasamos materia como tal, pero sí nos dieron una mini introducción a kicad que comenzaremos a aprender la otra semana antes del receso, además de donde se realizarán nuestras PCB. Esta tienda se llama JBCPCB ( https://jlcpcb.com/ ) en china, Shenzhen.
+
+Misaa nos enseñó sus proyectos nuevamente desde su página ( https://misaa.cc/index.html ) cada vez que lo busco en internet me lleva a páginas de la iglesia, misaa me va a terminar bendiciendo. Bueno, fue interesante volver a vernos y que pudiera entender algo de lo que estaba diciendo y mostrando, porque esto y por eso dije nuevamente, lo presentó las primeras clases y no se entendía nada. 
+
+
 ### imágenes de proceso
 
 ### post-clase
