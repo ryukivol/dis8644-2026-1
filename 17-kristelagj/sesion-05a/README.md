@@ -62,7 +62,7 @@ RITMO Y FRECUENCIA ES LO MISMO
 ![compuertas](imagenes/compuertas-logicas.png)
 
 
-### imagenes de proceso
+### imágenes de proceso
 
 ### post-clase
 
