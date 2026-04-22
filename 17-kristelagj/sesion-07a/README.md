@@ -32,6 +32,9 @@ Una frase que me gusto escuchar y que la estuve reflexionando desde que vi el tr
 --------
 
 
+Se suponía que teníamos el sintetizador listo, pero un cable suelto nos hizo dudar de todo y no volvió a sonar, pero podemos decir que si lo logramos y esta fue una oportunidad para poder practicar una vez más. Le agradezco mucho a Santi por llevarselo y hacerlo todo de nuevo. Él realmente ha sido un gran aporte a nuestro equipo, muy aguerrido. Misaa nos dijo que el problema de que suene ahogado es por el amplificador (dejare un video de como debería escucharse), así que vimos eso, pero nada. 
+
+Nos frustramos y como menciona, lo haremos de nuevo, lo cual nos retrasó en ciertas cosas como la carcasa, pero bueno, todo esto es por algo y no quiero adelantar proceso. Me dará ansiedad, si. 
 
 https://github.com/user-attachments/assets/f6a878d9-8f7b-4323-9d94-7d768596e73b
 
