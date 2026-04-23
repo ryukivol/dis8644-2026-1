@@ -2,11 +2,30 @@
 
 ![Título](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/00-proyecto-01/grupo-06/imagenes/titulo.gif)
 
-## integrantes
+**Realizado por:**  
+*Paula Fuentes Mena (paulafuentesm)*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+*Santiago Cifuentes Vélez (santiagocifuvelez)*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+*Kristel Ladrón de Guevara Jara (kristelagj)*
 
-- Santiago Cifuentes (santiagocifuvelez)
-- Paula Fuentes (paulafuentesm)
-- Kristel Ladrón de Guevara (kristelagj)
+<br>
+ <br>
+  <br>
+   <br>
+   
+"Quienes no se mueven no notan sus cadenas"   
+*—Rosa Luxemburg*
+
+<br>
+ <br>
+  <br>
+   <br>
+
+Hola! Bienvenidxs a la presentación de nuestro solemne 01.   
+Antes de partir, quiero agradecerles a mis compañeras por su esfuerzo y compromiso con el proyecto.  
+Hicimos algo mágico.
+
+Veamos lo que nos espera a continuación:  
 
 ## descripción del sintetizador realizado
 
