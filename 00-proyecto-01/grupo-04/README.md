@@ -16,7 +16,8 @@ para adaptar los componentes a su carcasa, decidimos alargar los cables dupont u
 ![imagenes](./imagenes/el-tincado-de-frente.jpeg)
 ![imagenes](./imagenes/el-tincado-iso.jpeg)
 
-adjuntamos video de el tincado funcionando a la perfección: <https://youtu.be/hrRX-CuZbwI>
++ adjuntamos video de el tincado funcionando a la perfección: <https://youtu.be/hrRX-CuZbwI>
++ adjuntamos video de el interior de el tincado: <https://youtube.com/shorts/Cf6fAJbL6Gk>
 
 ## proceso y resultados del reloj y secuenciador
 
@@ -72,8 +73,7 @@ para la carcasa de nuestro sintetizador, utilizamos cartón corrugado simple, pe
 
 ![imagenes](./imagenes/modelo-tincado.jpg)
 
-
-textos, imágenes
+el posicionamiento de cada potenciómetro lo determinamos mediante pruebas con el sintetizador. al estar sin carcasa y con todos los circuitos unidos por los cables, muchas veces se nos dificultó el movimiento de los B100K, así que por esto decidimos dividirlos por cara y que tuvieran suficiente espacio entre ellos para que fuera mucho más cómodo su uso.  además en la cara superior agregamos ranuras para ubicar el parlante. el volumen (B6), lo situamos en la cara delantera, debido a que en nuestro caso es uno de los potenciometros que menos movemos y es por esto que lo aislamos de los demás.
 
 incluir origen de materiales, decisiones de posiciones de los componentes, decisiones estéticas, pruebas, resultados obtenidos.
 
