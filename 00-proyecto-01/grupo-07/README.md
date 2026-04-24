@@ -14,7 +14,7 @@ El circuito utiliza un temporizador NE555 configurado como oscilador para genera
 
 Finalmente, la señal generada es enviada a un amplificador de audio basado en el integrado LM386, que permite aumentar la potencia de la señal para que pueda ser reproducida por el parlante. En conjunto, el circuito permite generar secuencias de sonidos rítmicos y melódicos mediante la coordinación entre la señal de reloj y los osciladores.
 
-![sintetizador](./imagenes/img-sintetizador.jpeg)
+![sintetizador](./imagenes/sonido.jpg)
 
 
 https://github.com/user-attachments/assets/905e3b0a-8652-41ce-81cf-a35a47ac748d
@@ -23,7 +23,7 @@ https://github.com/user-attachments/assets/905e3b0a-8652-41ce-81cf-a35a47ac748d
 
 ## proceso y resultados del reloj y secuenciador
 
-Logramos comprender y ensamblar el circuito de reloj y secuenciador que transforma pulsos eléctricos en un ciclo visual continuo, dividiendo el trabajo en dos etapas principales. Por la parte izquierda del diagrama armamos el generador de reloj utilizando un temporizador 555 configurado en modo astable, el cual emite un pulso constante de voltaje por su pin 3; comprobamos que el ritmo de estos pulsos lo podemos controlar y hacer más rápido o más lento simplemente ajustando el condensador C1 y la perilla del potenciómetro. Luego, conectamos esta señal a la parte derecha del circuito, donde usamos un chip contador de décadas CD4017 como secuenciador. Al hacer que el pulso del 555 entre al pin 14 del 4017, logramos sincronizar ambos componentes: cada latido le indica al 4017 que avance un paso, activando en orden las salidas Q0 a Q3 (pines 3, 2, 4 y 7).  Como resultado final, conseguimos que los 4 LEDs conectados a estas salidas se enciendan uno por uno en fila, creando un ciclo visual infinito!.
+Logramos comprender y ensamblar el circuito de reloj y secuenciador que transforma pulsos eléctricos en un ciclo visual continuo, dividiendo el trabajo en dos etapas principales. Por la parte izquierda del diagrama armamos el generador de reloj utilizando un temporizador 555 configurado en modo astable, el cual emite un pulso constante de voltaje por su pin 3, comprobamos que el ritmo de estos pulsos lo podemos controlar y hacer más rápido o más lento simplemente ajustando el condensador C1 y la perilla del potenciómetro. Luego, conectamos esta señal a la parte derecha del circuito, donde usamos un chip contador de décadas CD4017 como secuenciador. Al hacer que el pulso del 555 entre al pin 14 del 4017, logramos sincronizar ambos componentes: cada latido le indica al 4017 que avance un paso, activando en orden las salidas Q0 a Q3 (pines 3, 2, 4 y 7).  Como resultado final, conseguimos que los 4 LEDs conectados a estas salidas se enciendan uno por uno en fila, creando un ciclo visual infinito!.
 
 **Imagenes del proceso**
 ![Esquematico](./imagenes/esquematico555-4017.png)
@@ -79,6 +79,10 @@ Se definió el sonido y los capacitores a utilizar:
 + STEP 3: 100 nF
 + STEP 4: 1 µF
 
+![modificaciones](./imagenes/modificacion.jpeg)
+![modificaciones](./imagenes/modificacionn.jpeg)
+
+
 ## carcasas de cartón
 
 La construcción se plantea como un sistema modular, formando la figura de un “robot” llamado Rodolfo, en el cual se organiza el circuito de una forma fácil de comprender y manipular.
@@ -91,15 +95,24 @@ Los brazos, ubicados a ambos lados, contienen los amplificadores. Estos módulos
 
 ## interconexión entre módulos
 
-textos, imágenes, diagramas de interconexión
+Se conectaron tres protoboards entre sí. En la primera está el generador de clock junto con el secuenciador, en la segunda se encuentra el sintetizador y en la tercera están los amplificadores. Todos estos módulos se acomodaron dentro de carcasas de cartón, siguiendo la distribución que se tenía pensada.
+
+Las modificaciones realizadas se aprecian en color naranja.
+
+![esquema](./imagenes/esquematico.png)
 
 ## resultados finales
 
-texto
+El resultado final no fue el esperado, ya que los potenciómetros se dañaron debido al exceso de calor durante la soldadura, lo que terminó afectando la melodía que se había planificado originalmente. A pesar de este inconveniente, el circuito en sí funciona correctamente, lo que permitió identificar que el problema estaba específicamente en los potenciómetros.
 
-imagen
+Por otro lado, el montaje físico resultó exitoso, la distribución de los módulos dentro de las carcasas de cartón se realizó tal como se había previsto y el sistema opera de manera correcta.
 
-video / audio
+![rodolfo](./imagenes/rodolfo.jpeg)
+
+https://github.com/user-attachments/assets/e371bef5-044d-4cbf-a1b6-1ce6f4a00647
+
+
+
 
 ## aprendizajes y errores
 

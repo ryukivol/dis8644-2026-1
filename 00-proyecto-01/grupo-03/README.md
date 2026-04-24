@@ -52,11 +52,19 @@ incluir origen de materiales, decisiones de posiciones de los componentes, decis
 
 ## interconexión entre módulos
 
-textos, imágenes, diagramas de interconexión
+Para la conexión dentro del circuito y la protoboard se utilizaron jumpers, por donde se transmiten los electrones que circulan desde cada pata de los chips, pasando por los potenciómetros y los LEDs. En nuestro proyecto final reducimos las protoboards utilizadas, con el fin de mantener una estética más compacta, y seguimos usando jumpers, además de soldar los potenciómetros para que puedan extenderse más. El de la izquierda del parlante funciona como control de velocidad y el de la derecha como volumen.
+
+Los otros cuatro, que sobresalen alejados del parlante, modifican el sonido de cada uno de manera individual. Todos estos sobresalen de la caja para funcionar como perillas. También se soldaron solo tres LEDs, excepto el cuarto, que ya sobresalía por sí mismo.
+
+Los colores de los LEDs utilizados fueron naranja, rojo, verde y blanco. Con el parlante usamos caimanes para transmitir la señal, y todo quedó conectado mediante cables extraíbles en la protoboard que se encuentra dentro de la caja.
+
+![video proyecto](./videos/VideoProject.gif)
+
+![esquema de interconexión](./imagenes/esquema.jpg)
 
 ## resultados finales
 
-texto
+Como resultado final para esta primera parte del proyecto, tenemos un sintetizador el cual su circuito esta dentro de una caja de cartón reciclada, en donde en la parte superior lo que primero vemos es el parlante, luego a sus lados dos potenciómetros y por el frente de este parlante tenemos las LEDS que van prendiendose mediante el patrón de sonido que podemos crear. En la parte lateral tenemos 4 potenciómetros, quienes son los responsables de crear el ritmo que deseemos. 
 
 imagen
 
@@ -64,10 +72,16 @@ video / audio
 
 ## aprendizajes y errores
 
-las mejores lecciones aprendidas y los errores más comunes y cómo los resolvieron
+Una de las mejores lecciones que aprendimos es que el mundo es perfecto ni funciona como queremos, al igual que pasa con los chips cuando vienen defectuosos de fábrica y no funcionan a la primera. Los errores más comunes que nos ocurrían eran tener la batería descargada o que los cables estuvieran movidos una celda más de donde deberían, además de confusiones al conectar chips erróneos y cables sueltos que generaban conexiones inexistentes. Incluso las resistencias, que algunas tenían colores parecidos, nos causaban problemas.
 
-Una de las mejores lecciones que aprendimos es que no todo en el mundo es perfecto ni funciona como nosotros queremos que lo haga, al igual que pasa con los chips al venir defectuosos de fábrica y que no funcionen a la primera vez o de fábrica. Los errores más comunes que nos pasaban eran tener la batería descargada o que los cables estuvieran movidos una celda más de donde deberían estar, o confusiones conectando chips erróneos, y cables sueltos que generaban conexiones inexistentes, o las mismas resistencias, que algunas tenían colores parecidos, pero todos los resolvimos hablando con compañeros y compañeras que ya habían resuelto nuestras dudas o ya sabían cómo hacerlo, con compañeros que estaban en la misma parte del circuito que nosotros, tomando todos el punto de vista e intentando repasar el esquema paso a paso, rearmando desde cero las partes que no funcionaban y cambiando las partes que creíamos que podrían haberse dañado.
+Todos estos los fuimos resolviendo hablando con compañeros y compañeras que ya habían pasado por lo mismo o sabían cómo hacerlo, y también con quienes estaban en la misma etapa del circuito que nosotros. Así fuimos considerando distintos puntos de vista, repasando el esquema paso a paso, rearmando desde cero las partes que no funcionaban y cambiando aquellas que creíamos que podían haberse dañado.
 
 ## conclusiones
 
-sobre modularidad, materialidad, trabajo en equipo, trabajo electrónico, trabajo maquinal.
+A modo de conclusión, podemos afirmar que el trabajo en equipo fue bastante positivo, ya que existió una muy buena relación y comunicación entre todos los integrantes. Cada uno aportó al equipo, ya fuera conectando cables, ayudando a interpretar los esquemáticos o registrando cada etapa del proceso. Sin embargo, no se trató de roles rígidos, sino que como grupo procuramos colaborar de manera conjunta en las distintas tareas del proyecto.
+
+En cuanto al desarrollo del proyecto, podemos señalar que enfrentamos diversas complicaciones y errores, los cuales supimos resolver, ya sea de manera autónoma o solicitando apoyo a otros equipos. Una estrategia que resultó especialmente útil fue revisar cada esquema paso a paso, verificando que todas las conexiones estuvieran correctas; en caso contrario, optábamos por comenzar nuevamente o comprobar el funcionamiento de las partes por separado.
+
+Durante el proceso también fue necesario adquirir más materiales, como dos protoboards de mayor tamaño, circuitos integrados (“chips”) adicionales y cables Dupont, entre otros.
+
+En términos generales, como equipo quedamos bastante conformes con el resultado obtenido. Además, planeamos seguir trabajando en este proyecto a lo largo del semestre. Considerando que este fue nuestro primer acercamiento a la electrónica y a los sintetizadores, valoramos positivamente esta experiencia, teniendo en cuenta los errores cometidos y las lecciones aprendidas.
