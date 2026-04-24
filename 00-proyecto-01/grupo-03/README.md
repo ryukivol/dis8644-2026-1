@@ -44,6 +44,8 @@ Las conexiones clave para estos son los “Mix” en el 4093, que salen de la co
 
 ![Potenciometro](./imagenes/potenciometro.jpeg)
 
+![Sintetizador](./imagenes/Sintetizador2.jpeg)
+
 incluir texto, imágenes sobre modificaciones realizadas a los circuitos originales, incluyendo el proceso de diseño, pruebas y resultados obtenidos.
 
 incluir modificaciones en posición, chips, parámetros, valores, etc.
@@ -65,8 +67,6 @@ Los colores de los LEDs utilizados fueron naranja, rojo, verde y blanco. Con el 
 ![video proyecto](./videos/VideoProject.gif)
 
 ![esquema de interconexión](./imagenes/esquema.jpg)
-
-![Sintetizador](./imagenes/Sintetizador2.jpeg)
 
 ## resultados finales
 
